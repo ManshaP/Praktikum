@@ -1,2 +1,2 @@
 # Praktikum
-Will this ever end? Yes, at one million K
+Will this ever end? Yes, at one hundred million K
